@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  color: #008b8b;
+}
+.container {
+  width: 50%;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container button {
+  width: 100px;
+  height: 30px;
+  cursor: pointer;
+  color: white;
+  background-color: #008b8b;
+  border: none;
+  border-radius: 5px;
+  margin: 20px 0;
+}
+.container span {
+  color: #008b8b;
+  font-size: 30px;
+  margin: 0 20px;
+}
